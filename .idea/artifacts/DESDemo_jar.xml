@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DESDemo:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/DESDemo_jar</output-path>
+    <root id="archive" name="DESDemo.jar">
+      <element id="module-output" name="DESDemo" />
+    </root>
+  </artifact>
+</component>
